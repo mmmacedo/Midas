@@ -1,2 +1,0 @@
-# Midas
-Projeto Orçamento Doméstico
